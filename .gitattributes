@@ -1,0 +1,9 @@
+* text=auto
+*.ini    text eol=lf
+*.conf   text eol=lf
+*.sh     text eol=lf
+*.vim    text eol=lf
+
+*.jpg    -text
+*.png    -text
+*.webp   -text
